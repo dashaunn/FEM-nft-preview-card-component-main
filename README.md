@@ -11,8 +11,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -24,12 +22,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/nft-preview-card-desktop-view.png)
+![](./screenshots/nft-preview-card-mobile-view.png)
+![](./screenshots/nft-preview-card-active-state.png)
 
 ### Links
 
 - Solution URL: [Solution URL]()
-- Live Site URL: [Live Site URL]()
+- Live Site URL: [Live Site URL](https://dashaunn.github.io/FEM-nft-preview-card-component-main/)
 
 ### Built with
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Dashaun](https://www.your-site.com)
+- GitHub - [Dashaun](https://github.com/dashaunn)
 - Frontend Mentor - [@dashaunn](https://www.frontendmentor.io/profile/yourusername)
